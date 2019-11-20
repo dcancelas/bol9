@@ -1,6 +1,6 @@
 package bol9_01;
 
-public class Bol0_01 {
+public class Bol9_01 {
 
     public static void main(String[] args) {
         int i;
